@@ -36,6 +36,16 @@ ___
       </ul>
 </div>
 ```
+## Education
+___
+ * Pushkin Brest State University - Jurisprudence (2010-2014)
+* Brest State Polytechnic College - Jurisprudence (2007-2010)
+* Wella Studio (Minsk) - Hairdresser (2018-2019)
 
+## Languages
+___
+**Ru** - Native\
+**En** - A2\
+**Pl** - Basic 
 
 
